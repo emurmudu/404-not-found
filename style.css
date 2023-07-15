@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 20px;
+}
+.container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /* display: flex; */
+    /* justify-content: space-around; */
+    align-items: center;
+}
+.image{
+    width: 100%;
+}
