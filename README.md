@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/emurmudu/404-not-found/blob/main/Screenshot_jpg.jpg)
+![screenshot](https://github.com/emurmudu/404-not-found/blob/main/Screenshot.jpg)
 
 <!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering: -->
 
