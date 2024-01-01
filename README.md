@@ -40,7 +40,7 @@
 
 <!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering: -->
 
-<!-- - Where can I see your demo? -->
+<!-- - Where can I see demo? -->
 '404 Not Found' is a challenge by devChallenge.io. In this project i have tried to make a responsive web page that can be read in small, medium and large device. You can find this demo in my github live page and Netlify. As a beginner, there may have a lot of lacking in my project. I expect your valuable feedback, And hope that, these will enrich my learning process.
 <!-- - What was your experience?
 - What have you learned/improved?
